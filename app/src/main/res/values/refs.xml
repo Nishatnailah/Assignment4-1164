@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="android" />
+    <drawable name="java" />
+    <drawable name="php" />
+    <drawable name="python" />
+    <drawable name="cpp" />
+    <drawable name="ruby" />
+    <drawable name="ajax" />
+    <drawable name="rails" />
+    <drawable name="net" />
+    <drawable name="perl" />
+</resources>

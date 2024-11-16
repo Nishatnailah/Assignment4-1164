@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assignment4</string>
+    <string name="hello_there">Hello there</string>
+    <string-array name="chocolate_names">
+        <item>Kitkat</item>
+        <item>Dairy Milk</item>
+        <item>Snickers</item>
+        <item>Ferrero</item>
+        <item>Bounty</item>
+        <item>Twix</item>
+        <item>Dark chocolate</item>
+        <item>White chocolate</item>
+        <item>Milka</item>
+        <item>Lindt</item>
+        <item>Hershey</item>
+        <item>Mars</item>
+        <item>Amul chocolate</item>
+        <item>Milk chocolate</item>
+
+    </string-array>
+</resources>

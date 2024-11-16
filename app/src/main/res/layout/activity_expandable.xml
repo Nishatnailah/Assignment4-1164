@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/groupText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cake"
+        android:textSize="30sp"
+        android:padding="15dp"
+        android:paddingStart="40dp"
+        android:textStyle="bold"
+        android:background="#DB8888"
+        />
+
+    <ExpandableListView
+        android:id="@+id/expandableListView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+</LinearLayout>
